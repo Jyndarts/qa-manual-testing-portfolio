@@ -44,4 +44,11 @@ All documents are structured and written the way they are used in real developme
 
 ---
 
+Note:
+All project names, data, and scenarios in this repository have been
+generalized and sanitized to avoid disclosure of any confidential or
+client-specific information.
+
+---
+
 Thanks for taking the time to review my work.
